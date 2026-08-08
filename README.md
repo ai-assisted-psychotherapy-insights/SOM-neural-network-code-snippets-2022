@@ -3,11 +3,11 @@
 This is a read-me file for the general overview of all the read me files that were made as a part of the project of implementation of the C-block model. The C-block model was implemented with the help of self-organizing map (SOM) neural networks. The SOM neural networks are briefly described in the "read_me_animals.md" file and the C-block model is briefly described in all the other read-me files. All the files also contain a list of literature if you wish to dive deeper into the SOM neural networks and the C-block model.
 
 The read me files are the following:
-- *read_me_animals*
-- *read_me_cblock_with_sequencer1*
-- *read_me_cblock_with_sequencer2*
-- *read_me_whole_cblock*
-- *read_me_whole_cblock_withIOR*
+- *read_me_animals* (available with preview code)
+- *read_me_cblock_with_sequencer1* (available with preview code)
+- *read_me_cblock_with_sequencer2* (unavailable)
+- *read_me_whole_cblock* (unavailable)
+- *read_me_whole_cblock_withIOR* (unavailable)
 
 The order in which they are listed follows the order in which they were made and the order of increasing complexity of the C-block model. All of the files can be read and used independantly, with the exception of the last one, namely the "read_me_whole_cblock_withIOR.md".
 
