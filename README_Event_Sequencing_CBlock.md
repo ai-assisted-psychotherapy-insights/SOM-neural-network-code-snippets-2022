@@ -1,7 +1,7 @@
 # Event Sequencing Module for a Model of Early Social Cognition
 
 **Python implementation of a sequence-learning and planning model using self-organizing maps (SOMs)**  
-*MEi:CogSci mobility project, 2021–2022 · Maruša Sirk*
+*MEi:CogSci mobility project, 2021–2022*
 
 ## Project overview
 
@@ -161,11 +161,7 @@ The implementation was developed incrementally. The accompanying documentation f
 
 Each detailed README describes its corresponding script and functions, followed by credits and references. The first four describe stages that can be understood independently; the IOR documentation depends on the whole-C-block version.
 
-> **Availability note:** The status labels above are preserved from the original README. They should be updated to match the files and executable code currently present in this repository. No installation or execution commands are included here because the repository's actual file structure and dependencies have not been verified.
-
 ## Background and references
-
-This project was completed as part of a **MEi:CogSci mobility project (2021–2022)** and is described in more detail in *Event sequencing module for a model of early social cognition — Final report* (Maruša Sirk).
 
 Selected references from the project report:
 
