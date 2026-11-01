@@ -7,7 +7,7 @@
 
 How might a computational system learn to recognise events as sequences, anticipate what happens next, and select a sequence associated with a desired outcome?
 
-This project explores that question by reimplementing the **C-block model**, a connectionist model of sequence learning and planning described by Takáč, Knott and Sagar (2020). The work was motivated by research on **event segmentation**: the way people organise continuous experience into meaningful events.
+This project explores that question by reimplementing the **C-block model**, a connectionist model of sequence learning and planning. The work was motivated by research on **event segmentation**: the way people organise continuous experience into meaningful events.
 
 The implementation was developed in **Python** and progressed from a simple self-organizing map trained on animal attributes to a C-block architecture with two SOMs:
 
@@ -153,8 +153,8 @@ The implementation was developed incrementally. The accompanying documentation f
 
 | Documentation file | What it covers | Status noted in original README |
 | --- | --- | --- |
-| `read_me_animals.md` | Introductory SOM trained on animal attributes; separate from C-block. | Preview code available |
-| `read_me_cblock_with_sequencer1.md` | First sequencer implementation trained using a predefined dataset. | Preview code available |
+| `read_me_animals.md` | Introductory SOM trained on animal attributes; separate from C-block. | Available with preview code |
+| `read_me_cblock_with_sequencer1.md` | First sequencer implementation trained using a predefined dataset. | Available with preview code |
 | `read_me_cblock_with_sequencer2.md` | Incremental sequencer learning after each new element. | Unavailable |
 | `read_me_whole_cblock.md` | Combined sequencer and planner SOMs. | Unavailable |
 | `read_me_whole_cblock_withIOR.md` | Planner testing with inhibition of return; builds on the whole C-block implementation. | Unavailable |
